@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "exbVersion": "1.21.0",
   "author": "Custom",
-  "description": "Right-click the map and choose Add label here in the Map Context Menu, or pick a point, to add a text label built from the attributes of a visible layer. Labels go on the Draw widget's layer so Draw can edit them.",
+  "description": "Add text labels to the map from feature attributes or free text. Choose the layer, fields and style first, then click features (or right-click with Map Context Menu) to place labels. Edit, move, undo and redo labels in the widget. Labels sit on the Draw widget's layer and are restored by Save Experience State.",
   "copyright": "",
   "license": "MIT",
   "dependency": [
