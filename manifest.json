@@ -1,0 +1,22 @@
+{
+  "name": "attribute-label",
+  "label": "Attribute Label",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.21.0",
+  "author": "Custom",
+  "description": "Right-click the map and choose Add label here in the Map Context Menu, or pick a point, to add a text label built from the attributes of a visible layer. Labels go on the Draw widget's layer so Draw can edit them.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 600
+  },
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ]
+}

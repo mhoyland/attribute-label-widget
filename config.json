@@ -1,0 +1,24 @@
+{
+  "placeAt": "centre",
+  "defaultJoin": "newline",
+  "showFieldNames": false,
+  "allowMultiplePerFeature": false,
+  "includeDrawText": true,
+  "rememberChoices": true,
+  "tolerance": 6,
+  "defaultStyle": {
+    "fontFamily": "Arial",
+    "fontSize": 12,
+    "bold": false,
+    "italic": false,
+    "underline": false,
+    "color": "#000000",
+    "halo": true,
+    "haloColor": "#ffffff",
+    "haloSize": 1,
+    "background": false,
+    "backgroundColor": "#ffffff",
+    "align": "center",
+    "angle": 0
+  }
+}
