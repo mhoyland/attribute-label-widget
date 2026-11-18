@@ -87,3 +87,7 @@ closed and unmounted, its layer and the labels in it go with it.
 
 - 2D maps only (`TextSymbol` does not draw in a SceneView).
 - Labels are not saved with the app; a page reload clears them.
+
+## Licence
+
+[MIT](LICENSE)
